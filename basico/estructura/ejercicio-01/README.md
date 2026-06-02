@@ -53,7 +53,7 @@ Un archivo dentro de `resoluciones/` con tu solución. Puede ser `.js`, `.md`, `
 ## Reglas
 
 - No modifiques respuestas de otros alumnos.
-- No borres `.gitkeep`.
+- No borres `.gitkeep`.+
 - No cambies el README del ejercicio.
 - No subas archivos fuera de `resoluciones/`.
 - No trabajes directamente en `main`.

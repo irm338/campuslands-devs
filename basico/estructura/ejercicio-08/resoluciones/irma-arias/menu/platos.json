@@ -1,0 +1,31 @@
+{
+    "platos": [
+        {
+            "id": 1,
+            "nombre": "Arepa de Pollo",
+            "precio": 15.00
+        },
+        {
+            "id": 2,
+            "nombre": "Arepa de Queso",
+            "precio": 12.00
+        },
+        {
+            "id": 3,
+            "nombre": "Arepa de Carne",
+            "precio": 18.00
+        }
+    ],
+    "bebidas": [
+        {
+            "id": 101,
+            "nombre": "Jugo Natural",
+            "precio": 8.00
+        },
+        {
+            "id": 102,
+            "nombre": "Soda",
+            "precio": 6.00
+        }
+    ]
+}
